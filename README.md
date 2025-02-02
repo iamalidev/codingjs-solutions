@@ -1,3 +1,5 @@
-Solutions to The Winter CodingJS problems.
+# CodingJS
 
-[https://the-winter.github.io/codingjs/](https://the-winter.github.io/codingjs/)
+Solutions to CodingJS problems.
+
+[https://the-winter.github.io/codingjs](https://the-winter.github.io/codingjs/)
